@@ -1,0 +1,4 @@
+Three versions of a Monte Carlo method for calculating Pi are included, one serial C++ version, one openMP version, and one CUDA version. To see it work, run:
+
+$ ./compile.sh
+$ ./run.sh
